@@ -1,0 +1,8 @@
+{
+  "name": "talk-monitor",
+  "version": "0.1.0",
+  "description": "インサイドセールスの通話文字起こしを8項目で判定するツール",
+  "private": true,
+  "scripts": { "test": "node --test test/*.test.js" },
+  "license": "UNLICENSED"
+}
